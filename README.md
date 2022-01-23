@@ -6,7 +6,7 @@
 <li>Twilio</li>
 
 <h2>Requirements<h2>
-<li>Twilio membership</li>
+<li>Twilio Membership</li>
 
 <br>
 <h3>Installation</h3>
